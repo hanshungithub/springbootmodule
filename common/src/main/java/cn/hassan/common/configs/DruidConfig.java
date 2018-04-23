@@ -1,4 +1,4 @@
-package cn.hassan.fastjson.configs;
+package cn.hassan.common.configs;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import com.alibaba.druid.support.http.StatViewServlet;
