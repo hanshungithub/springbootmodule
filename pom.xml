@@ -14,6 +14,7 @@
         <module>interceptor</module>
         <module>jsp</module>
         <module>javamail</module>
+        <module>jwt</module>
     </modules>
     <name>springbootmodule</name>
     <description>Demo project for Spring Boot</description>
